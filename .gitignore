@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 .idea/
+TEST1.iml
 
 ### VS Code ###
 .vscode/
